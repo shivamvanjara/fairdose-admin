@@ -2,8 +2,6 @@
 
 > A premium, responsive administrative dashboard for managing the FairDose medicine inventory system.
 
-![FairDose Dashboard](https://via.placeholder.com/1000x500?text=FairDose+Admin+Dashboard+Screenshot)
-*(Replace this link above with a real screenshot of your dashboard)*
 
 ## 🚀 Overview
 
