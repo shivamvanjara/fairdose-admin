@@ -96,7 +96,7 @@ export default function SideBar() {
           <ListItem disablePadding sx={{ mb: 1 }}>
             <ListItemButton 
                 component="a" 
-                href="fairdose.vercel.app" 
+                href="https://fairdose.vercel.app" 
                 target="_blank"
                 sx={{ 
                     borderRadius: 2, 
