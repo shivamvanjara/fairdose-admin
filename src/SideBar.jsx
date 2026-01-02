@@ -96,7 +96,7 @@ export default function SideBar() {
           <ListItem disablePadding sx={{ mb: 1 }}>
             <ListItemButton 
                 component="a" 
-                href="https://fairdose.netlify.app/" 
+                href="fairdose.vercel.app" 
                 target="_blank"
                 sx={{ 
                     borderRadius: 2, 
